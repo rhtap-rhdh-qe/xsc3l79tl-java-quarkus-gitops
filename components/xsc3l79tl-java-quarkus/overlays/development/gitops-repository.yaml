@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xsc3l79tl-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xsc3l79tl-java-quarkus-gitops
